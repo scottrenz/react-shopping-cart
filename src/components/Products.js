@@ -4,7 +4,6 @@ import {ProductContext} from './contexts/ProductContext'
 
 // Components
 import Navigation from './components/Navigation';
-import Products from './components/Products';
 
 // Components
 import Product from './Product';
