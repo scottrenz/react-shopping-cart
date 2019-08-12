@@ -1,9 +1,6 @@
 import React, {useContext} from 'react';
 // useContext hook as well as our ProductContext
-import {ProductContext} from './contexts/ProductContext'
-
-// Components
-import Navigation from './components/Navigation';
+import {ProductContext} from '../contexts/ProductContext'
 
 // Components
 import Product from './Product';
